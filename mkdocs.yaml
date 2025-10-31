@@ -1,0 +1,8 @@
+site_name: "my-appname-demo"
+site_description: "Documentation for my-appname-demo"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
